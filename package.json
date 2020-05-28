@@ -1,0 +1,30 @@
+{
+  "engines": {
+    "node": "14.0.0"
+  },
+  "name": "font21-todo",
+  "version": "1.0.0",
+  "description": "```json {    \"engines\": {     \"node\": \"12.16.2\"   },   \"name\": \"font21-todo\",   \"version\": \"1.0.0\",   \"description\": \"\",   \"main\": \"server.js\",   \"scripts\": {     \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",     \"start\": \"node server.js\",     \"dev\":\"nodemon\"   },   \"keywords\": [],   \"author\": \"\",   \"license\": \"ISC\" } ```",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/font21/unit-2-assessment-nova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/font21/unit-2-assessment-nova/issues"
+  },
+  "homepage": "https://github.com/font21/unit-2-assessment-nova#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-react-views": "^0.11.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
